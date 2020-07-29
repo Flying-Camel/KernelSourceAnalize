@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T10:50:22.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="NePYdletwNz_Gvpo7uev" version="13.5.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-29T04:22:05.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="B_T_0CcYhgkNiztv29GD" version="13.5.4" type="github" pages="2">
   <diagram name="Flow" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="474" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,10 +56,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-c-Y0CxwLEuoPcUm9j3X" name="Code">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3273" dy="2096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="XxozxzpS8Y7FEJ37KUgX-0" />
         <mxCell id="XxozxzpS8Y7FEJ37KUgX-1" parent="XxozxzpS8Y7FEJ37KUgX-0" />
+        <mxCell id="qxsunz6MoGPXVvIAFtCr-1" value="Command Send Flow" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=1;glass=0;sketch=0;fontSize=9;" vertex="1" parent="XxozxzpS8Y7FEJ37KUgX-1">
+          <mxGeometry x="-1600" y="-1200" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qxsunz6MoGPXVvIAFtCr-2" value="Classname" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;shadow=1;glass=0;sketch=0;fontSize=10;strokeColor=none;" vertex="1" parent="XxozxzpS8Y7FEJ37KUgX-1">
+          <mxGeometry x="-1580" y="-1130" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qxsunz6MoGPXVvIAFtCr-3" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="qxsunz6MoGPXVvIAFtCr-2">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qxsunz6MoGPXVvIAFtCr-4" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="qxsunz6MoGPXVvIAFtCr-2">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qxsunz6MoGPXVvIAFtCr-5" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;" vertex="1" parent="qxsunz6MoGPXVvIAFtCr-2">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
